@@ -20,7 +20,7 @@ I'm an entrepreneur currently shaping the future of software development by desi
 - 🌐 Visit my [Website](https://christianbautista.dev/)
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/christianbautista) or email: christian@bautista.tech
 
-# 👨‍💻 Technologies
+# 💻 Technologies
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=white) ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=white) ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio&logoColor=white&color=white) ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=intellij-idea&logoColor=white&color=white) ![](https://img.shields.io/badge/Editor-Intellij-informational?style=flat&logo=intellij-idea&logoColor=white&color=white)
 
