@@ -32,4 +32,4 @@ I'm an entrepreneur currently shaping the future of software development by desi
 
 ![Christian's github stats](https://github-readme-stats.vercel.app/api?username=ianbautista&theme=midnight-purple&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianbautista&langs_count=5&hide=html&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianbautista&langs_count=5&hide=html&theme=midnight-purple)
