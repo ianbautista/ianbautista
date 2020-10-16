@@ -29,7 +29,6 @@ I'm an entrepreneur currently shaping the future of software development by desi
 ![IntelliJ](https://img.shields.io/badge/Editor-Intellij-informational?style=flat&logo=intellij-idea&logoColor=white&color=white)
 ![Github](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=faf7fb)
 
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![HTML](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=faf7fb)
 ![CSS](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=faf7fb)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=faf7fb)
