@@ -47,4 +47,4 @@ I'm an entrepreneur currently shaping the future of software development by desi
 
 ![Christian's github stats](https://github-readme-stats-seven-swart-84.vercel.app/api?username=ianbautista&count_private=true&theme=midnight-purple&show_icons=true)
 
-![Top Langs](https://github-readme-stats-seven-swart-84.vercel.app/api/top-langs/?username=ianbautista&langs_count=5&hide=html&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianbautista&langs_count=5&hide=html&theme=midnight-purple)
