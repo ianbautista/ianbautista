@@ -45,6 +45,6 @@ I'm an entrepreneur currently shaping the future of software development by desi
 ![Jest](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=faf7fb)
 ![Cypress](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=cypress&logoColor=white&color=faf7fb)
 
-![Christian's github stats](https://github-readme-stats.vercel.app/api?username=ianbautista&count_private=true&theme=midnight-purple&show_icons=true)
+![Christian's github stats](github-readme-stats-ianbautista.vercel.app/api?username=ianbautista&count_private=true&theme=midnight-purple&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianbautista&langs_count=5&hide=html&theme=midnight-purple)
+![Top Langs](github-readme-stats-ianbautista.vercel.app/api/top-langs/?username=ianbautista&langs_count=5&hide=html&theme=midnight-purple)
