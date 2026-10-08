@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 I'm an entrepreneur currently shaping the future of software development by designing and building smooth user-interfaces that promote user interaction with information and data.
 
-- 🌐 Visit my [Website](https://christianbautista.dev/)
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/christianbautista) or email: christian@bautista.tech
+- 🌐 Visit our [Website](https://slyzero.com/)
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/christianbautista) or email: christian@slyzero.com
 
 # 💻 Technologies
 
